@@ -1,4 +1,4 @@
-FROM php:8.0-apache
+FROM php:8.3.22-apache
 
 LABEL maintainer "josef.moravec@gmail.com"
 
